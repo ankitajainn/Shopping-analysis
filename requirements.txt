@@ -1,9 +1,6 @@
+
 streamlit
 pandas
 numpy
-joblib
-scikit-learn
-matplotlib
-seaborn
-plotly
-sqlalchemy
+joblib==1.6.0
+scikit-learn==1.9.1
